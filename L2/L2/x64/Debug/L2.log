@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Lenovo\source\repos\L2\Source.cpp(91,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Lenovo\source\repos\L2\Source.cpp(93,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  L2.vcxproj -> C:\Users\Lenovo\source\repos\L2\x64\Debug\L2.exe
